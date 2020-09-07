@@ -8,5 +8,5 @@ services:
                 - "9443:443"
                 - "9100-9110:9100-9110"
                 volumes:
-                - /data/imagenes-medicas/web:/web
+                - /data/imagenes-biologicas/web:/web
 

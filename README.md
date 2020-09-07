@@ -1,4 +1,4 @@
-## Contenedor para proyecto de imágenes médicas
+## Contenedor para proyecto de imágenes biológicas
 
 Este repositorio tiene una imagen de Docker que configura un contenedor
 con las siguientes características:
